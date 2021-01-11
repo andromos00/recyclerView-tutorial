@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "Recycler View"
+rootProject.name = "tutorial5"
